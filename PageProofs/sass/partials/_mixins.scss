@@ -1,0 +1,37 @@
+// ====================================================================
+// Задает передаваемому селектору значение в px и rem
+// ====================================================================
+@mixin selector-rhythm($selector, $size: $base-font-size) {
+  @if $selector {
+    @if $size {
+      @if $size != 'auto' {
+        #{$selector}: $size;
+        #{$selector}: ($size/1px)/($base-font-size/1px)*1rem;
+      }
+    }
+  }
+}
+
+// ====================================================================
+// Базовые установки вертикального ритма
+// ====================================================================
+@mixin uwd-rhytm-config($size, $line-height) {
+  $base-font-size: $size !global;
+  $base-line-height: $size * $line-height !global;
+  $rhythm-unit: "rem" !global;
+  $rem-with-px-fallback: true !global;
+  $grid-background-baseline-color: lighten(#D72272, 30%) !global;
+}
+
+// ====================================================================
+// Установка свойств body
+// ====================================================================
+@mixin body($family: false, $color: transparent, $bg-color: transparent) {
+  @if $family {
+    font-family: $family;
+  }
+  @if $color {
+    color: $color;
+  }
+  background-color: $bg-color;
+}

@@ -1,0 +1,23 @@
+// ====================================================================
+// Layout postfooter
+// ====================================================================
+.postfooter {
+  position: relative;
+  @include container;
+  color: $color6;
+  @include selector-rhythm(height, $postfooter-height);
+  @include selector-rhythm(padding-top, 10px);
+  background: $postfooter-background;
+  text-transform: uppercase;
+  a {
+    color: $color6;
+    @include hover-link;
+  }
+  .pf-col1 {
+    @include span(6);
+  }
+  .pf-col2 {
+    @include span(6 last);
+    text-align: right;
+  }
+}

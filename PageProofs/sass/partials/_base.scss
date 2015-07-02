@@ -1,0 +1,192 @@
+// ====================================================================
+// Базовые стили проекта
+// ====================================================================
+@include uwd-rhytm-config($base-font-size, $base-line-height-scale);
+@include establish-baseline;
+* {@include box-sizing($box-model);}
+body {@extend %body;}
+.corper {
+  overflow: hidden;
+  @include selector-rhythm(min-width, $container-width);
+}
+.wrap {
+  @include selector-rhythm(width, $container-width);
+  margin: 0 auto;
+  position: relative;
+}
+header, footer, [role="main"] {position: relative;}
+div {
+  @include adjust-font-size-to($font-size-normal);
+}
+p, h1, h2, h3, h4 {margin: 0;}
+p {@include adjust-font-size-to($font-size-normal);}
+h1 {
+  @include margin-leader(.8883);
+  @include adjust-font-size-to($font-size-h1);
+  font-weight: $font-weight-h1;
+  text-transform: uppercase;
+}
+h2 {
+  @include adjust-font-size-to($font-size-h2);
+  font-weight: $font-weight-h2;
+  text-transform: uppercase;
+}
+h3 {
+  @include adjust-font-size-to($font-size-h3);
+  font-weight: $font-weight-h3;
+  text-transform: uppercase;
+}
+h4 {
+  @include adjust-font-size-to($font-size-h4);
+  font-weight: $font-weight-h4;
+}
+h5 {
+  @include adjust-font-size-to($base-font-size);
+  font-weight: $font-weight-h5;
+  text-transform: uppercase;
+}
+a {
+  @include adjust-font-size-to($font-size-normal);
+  color: $font-color-a;
+  text-decoration: underline;
+  &:hover, &:focus {
+    text-decoration: none;
+  }
+}
+%button-template {
+  display: block;
+  cursor: pointer;
+  @include adjust-font-size-to(12px);
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  height: 23px;
+  outline: none;
+  border: none;
+}
+.button-red {
+  @extend %button-template;
+  color: $color1;
+  background: url("/img/icons.png") 0px -111px;
+  width: 145px;
+  &:hover, &:focus {background-position: 0px -136px;}
+}
+.button-red-long {
+  @extend %button-template;
+  color: $color1;
+  background: url("/img/button-red-long.png") no-repeat;
+  @include adjust-font-size-to(12px);
+  width: 372px;
+  height: 26px;
+  &:hover, &:focus {background: url("/img/button-red-long-hover.png") no-repeat;}
+}
+.button-white {
+  @extend %button-template;
+  color: $color7;
+  background: url("/img/icons.png") 0px -160px;
+  width: 155px;
+  &:hover, &:focus {background-position: 0px -186px;}
+}
+label {
+  @include adjust-font-size-to($font-size-normal);
+  span {color: $color3;}
+}
+input, textarea {&:focus {outline: none;}}
+input[type="text"], textarea {
+  display: block;
+  font-family: $base-font-family;
+  color: $color2;
+  border: 1px solid $color9;
+  @include selector-rhythm(width, 210px);
+  @include selector-rhythm(padding-left, 12px);
+  @include selector-rhythm(padding-right, 12px);
+  @include selector-rhythm(padding-bottom, 2px);
+  @include selector-rhythm(margin-bottom, 10px);
+  @include adjust-font-size-to($font-size-normal);
+  @include border-radius(15px);
+  @include legacy-pie-clearfix;
+  &:focus, &:hover, &:active {border-color: $color4;}
+}
+textarea {resize: none;}
+button {padding: 0;}
+[role="main"] {
+  ul {
+    @include no-bullets;
+    li {
+      &:before {
+        content: "-";
+        @include selector-rhythm(padding-right, 4px);
+      }
+    }
+  }
+  ul.list2 {
+    @include no-bullets;
+    li {
+      @include selector-rhythm(line-height, 18px);
+      span{text-decoration: underline;}
+      &:before {
+        content: "—";
+        @include selector-rhythm(padding-right, 4px);
+      }
+    }
+  }
+  img, iframe {
+    margin: auto;
+    padding: 0 !important;
+    display: block;
+    max-width: 100%;
+    @include margin-trailer;
+  }
+  img {@include border-radius(15px);}
+}
+.redline {
+  @include clearfix;
+  position: relative;
+  background-image: url("/img/line.png");
+  width: $container-width - $container-padding-left - $container-padding-right;
+  height: 3px;
+}
+.line1 {
+  @include clearfix;
+  position: relative;
+  background-color: $color2;
+  width: $container-width - $container-padding-left - $container-padding-right;
+  height: 1px;
+}
+.line2 {
+  @include clearfix;
+  position: relative;
+  background-color: $color2;
+  width: $container-width - $container-padding-left - $container-padding-right;
+  height: 2px;
+}
+.line3 {
+  @include clearfix;
+  position: relative;
+  background-color: $color2;
+  width: $container-width - $container-padding-left - $container-padding-right;
+  height: 3px;
+}
+.bg-block-dark {background-color: $color8;}
+.bg-block-red-opacity {background-color: rgba($color3, 0.839);}
+.bg-block-black-opacity {background-color: rgba($color7, 0.839);}
+.bg-block-opacity {background-color: rgba($color7, 0.3);}
+.block-light {
+  background-color: $color1;
+  padding: 25px;
+  @include border-radius(15px);
+  border: 2px solid $color8;
+}
+.block-dark {
+  background-color: $color8;
+  padding: 25px;
+  @include border-radius(15px);
+}
+cite {
+  @extend .block-dark;
+  display: block;
+  @include selector-rhythm(margin-top, 20px);
+  @include selector-rhythm(margin-bottom, 20px);
+  @include adjust-font-size-to(13px);
+  font-style: normal;
+}

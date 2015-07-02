@@ -1,0 +1,47 @@
+- # encoding: UTF-8
+-###############################################################################
+-# Компонент модальные окна
+-#    Файл SCSS: sass/partials/modules/_modal.scss
+-#    Файлы JS:  js/modules/jquery.arcticmodal.js
+-#               js/modules/modal.js
+-###############################################################################
+-# 
+-# Код для подключения компонента в исходном файле .haml:
+-#
+-# =Haml::Engine.new(IO.read("#{pathProject}modules/_modal-writeme.haml")).render
+-#
+-###############################################################################
+-#
+-# Аттрибуты html компонента "Модальные окна":
+-#
+-# data-tooggle="modal" - обозначениме того, что это та ссылка, при клике на
+-# которую открывается модальное окно с идентификатором #myModal.
+-#
+-# data-target="#myMidal" -  аттрибут с идентификатором модального окна #myModal 
+-# в ссылке, при клике на которую открывается модальное окно, указывающий какое
+-# именно модальное окно будет открываться.
+-#
+-# class="arcticmodal-close" - обозначениме того, что это та ссылка, при клике на
+-# которую закрывается текущее модальное окно.
+-#
+-###############################################################################
+.g-hidden
+  .box-modal#writemeModal
+    %a{:href => "#", :class => "box-modal_close arcticmodal-close"}
+    %h2 Задать вопрос
+    %form{:role => "form"}
+      .section-input
+        .form-group
+          %label{:for => "name"} Ваше имя <span>*</span>
+          %input{:id => "name", :name => "name", :type => "text", :autofocus => true, :required => true}
+          %label{:for => "telephone"} Телефон <span>*</span>
+          %input{:id => "telephone", :name => "telephone", :type => "text", :required => true}
+          %label{:for => "email"} E-mail
+          %input{:id => "email", :name => "email", :type => "text"}
+        .form-group
+          %label{:for => "message"} Сообщение
+          %textarea{:id => "message", :name => "message", :rows => 10}
+      .section-submit
+        %button{:type => "submit", :class => "button-red"} Отправить
+        .requre-field-message
+          Поля, отмеченные <span>*</span>, обязательны для заполнения

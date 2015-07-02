@@ -1,0 +1,48 @@
+.jcarousel-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  @include selector-rhythm(margin-top, 20px);
+  @include selector-rhythm(margin-bottom, 40px);
+  position: relative;
+  .jcarousel {
+    position: relative;
+    overflow: hidden;
+    ul {
+      width: 20000em;
+      position: relative;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      li {
+        float: left;
+        &:before {
+          content: "";
+          padding-right: 0;
+        }
+        img {
+          padding: 0;
+        }
+      }
+    }
+  }
+  .jcarousel-pagination {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: $container-width - $container-padding-left - $container-padding-right;
+    @include selector-rhythm(margin-bottom, -20px);
+    a {
+      text-decoration: none;
+      display: inline-block;
+      @include adjust-font-size-to($base-font-size);
+      background: url("/img/icons.png") -150px -77px;
+      width: 27px;
+      height: 27px;
+      color: $color1;
+      padding: 1px 0 0 1px;
+      text-align: center;
+      margin-right: 2px;
+      &.active {background: url("/img/icons.png") -150px -45px;}
+    }
+  }
+}

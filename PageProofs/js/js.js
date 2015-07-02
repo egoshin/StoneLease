@@ -1,0 +1,7 @@
+//@codekit-prepend "../bower_components/jquery/dist/jquery.js"
+//@codekit-prepend "modules/jquery.keeptherhythm.js"
+//@codekit-prepend "modules/jquery.arcticmodal.js"
+//@codekit-prepend "modules/button-curtain.js"
+//@codekit-prepend "modules/jquery.jcarousel.min.js"
+//@codekit-prepend "modules/jcarousel.basic.js"
+//@codekit-prepend "modules/no-href.js"

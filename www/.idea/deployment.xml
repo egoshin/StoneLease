@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="StoneLease" deleteMissingItems="true" createEmptyFolders="true">
+    <serverData>
+      <paths name="StoneLease">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/auth" />
+            <excludedPath path="/bitrix/admin" />
+            <excludedPath path="/bitrix/cache" />
+            <excludedPath path="/bitrix/components" />
+            <excludedPath path="/bitrix/css" />
+            <excludedPath path="/bitrix/fonts" />
+            <excludedPath path="/bitrix/gadgets" />
+            <excludedPath path="/bitrix/image_uploader" />
+            <excludedPath path="/bitrix/images" />
+            <excludedPath path="/bitrix/js" />
+            <excludedPath path="/bitrix/managed_cache" />
+            <excludedPath path="/bitrix/modules" />
+            <excludedPath path="/bitrix/otp" />
+            <excludedPath path="/bitrix/panel" />
+            <excludedPath path="/bitrix/sounds" />
+            <excludedPath path="/bitrix/themes" />
+            <excludedPath path="/bitrix/tmp" />
+            <excludedPath path="/bitrix/tools" />
+            <excludedPath path="/bitrix/updates" />
+            <excludedPath path="/bitrix/wizards" />
+            <excludedPath path="/bitrix/.access.php" />
+            <excludedPath path="/bitrix/.settings.php" />
+            <excludedPath path="/bitrix/coupon_activation.php" />
+            <excludedPath path="/bitrix/footer.php" />
+            <excludedPath path="/bitrix/header.php" />
+            <excludedPath path="/bitrix/index.php" />
+            <excludedPath path="/bitrix/license_key.php" />
+            <excludedPath path="/bitrix/p3p.xml" />
+            <excludedPath path="/bitrix/rss.php" />
+            <excludedPath path="/bitrix/spread.php" />
+            <excludedPath path="/bitrix/urlrewrite.php" />
+            <excludedPath path="/bitrix/virtual_file_system.php" />
+            <excludedPath path="/bitrix/web.config" />
+            <excludedPath path="/bitrix/templates/.default" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

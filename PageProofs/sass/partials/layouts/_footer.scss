@@ -1,0 +1,35 @@
+// ====================================================================
+// Layout footer
+// ====================================================================
+footer {
+  @include container;
+  color: $color1;
+  @include selector-rhythm(height, $footer-height);
+  @include selector-rhythm(padding-top, 23px);
+  background: $footer-background;
+  ul {
+    @include no-bullet;
+    margin: 0;
+    padding: 0;
+    a {
+      color: $color1;
+      @include hover-link;
+    }
+  }
+  .f-col1 {
+    @include span(2);
+  }
+  .f-col2 {
+    @include span(3);
+  }
+  .f-col3 {
+    @include span(3);
+  }
+  .f-col4 {
+    @include span(2);
+  }
+  .f-col5 {
+    @include span(2 last);
+    text-align: right;
+  }
+}
