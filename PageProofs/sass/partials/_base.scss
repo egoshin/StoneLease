@@ -3,7 +3,7 @@
 // ====================================================================
 @include uwd-rhytm-config($base-font-size, $base-line-height-scale);
 @include establish-baseline;
-* {@include box-sizing($box-model);}
+* {@include box-sizing($box-model); margin: 0; padding: 0;}
 body {@extend %body;}
 .corper {
   overflow: hidden;

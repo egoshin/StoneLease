@@ -3040,6 +3040,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/img\/button-red-long-hover.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1427,
+		"inputAbbreviatedPath": "\/img\/button-red-long-hover.png",
+		"outputAbbreviatedPath": "\/img\/button-red-long-hover.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/button-red-long.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1408,
+		"inputAbbreviatedPath": "\/img\/button-red-long.png",
+		"outputAbbreviatedPath": "\/img\/button-red-long.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/icons.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10642,
+		"inputAbbreviatedPath": "\/img\/icons.png",
+		"outputAbbreviatedPath": "\/img\/icons.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/line.png": {
 		"fileType": 32768,
 		"ignore": 0,

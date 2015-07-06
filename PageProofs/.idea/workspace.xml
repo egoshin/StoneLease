@@ -5,73 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c66ec1ab-2a0c-4264-96ab-fd4baae88f3b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/404.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/partials/pages/_404-content.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/partials/pages/_about-content.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/partials/pages/_article-content.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/partials/_aside-menu2.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/partials/_aside-menu3.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/partials/layouts/_aside.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/partials/pages/_blog-content.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/partials/layouts/_breadcrumb.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/partials/pages/_contacts-content.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/partials/pages/_deals-content.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/partials/pages/_deals-list-content.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/partials/pages/_leasing-application-content.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/partials/pages/_leasing-car-content.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/partials/pages/_leasing-services-financial-content.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/partials/pages/_leasing-services-operational-content.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/partials/_mainmenu.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/partials/layouts/_mainmenu.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/partials/modules/_modal-confirm.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/partials/pages/_news-list-content.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/partials/_postfooter.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/partials/layouts/_postfooter.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/partials/pages/_sitemap-content.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/about.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/article.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/blog.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/contacts.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/deals-list.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/deals.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/leasing-application.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/leasing-car.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/leasing-services-financial.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/leasing-services-operational.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/news-list.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/news.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haml/sitemap.haml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/haml/partials/modules/_button-curtain.haml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/layouts/_variables.scss" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/haml/partials/modules/_modal-callme.haml" afterPath="$PROJECT_DIR$/haml/partials/modules/_modal-writeme.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/modules/_arctimodal.scss" afterPath="$PROJECT_DIR$/sass/partials/modules/_arctimodal.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/haml/partials/_aside.haml" afterPath="$PROJECT_DIR$/haml/partials/_aside.haml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_base.scss" afterPath="$PROJECT_DIR$/sass/partials/_base.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/haml/partials/_breadcrumb.haml" afterPath="$PROJECT_DIR$/haml/partials/_breadcrumb.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/modules/_button-curtain.scss" afterPath="$PROJECT_DIR$/sass/partials/modules/_button-curtain.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/modules/_ears.scss" afterPath="$PROJECT_DIR$/sass/partials/modules/_ears.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_fonts.scss" afterPath="$PROJECT_DIR$/sass/partials/_fonts.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/haml/partials/_footer.haml" afterPath="$PROJECT_DIR$/haml/partials/_footer.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/layouts/_footer.scss" afterPath="$PROJECT_DIR$/sass/partials/layouts/_footer.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/haml/partials/_header.haml" afterPath="$PROJECT_DIR$/haml/partials/_header.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/layouts/_header.scss" afterPath="$PROJECT_DIR$/sass/partials/layouts/_header.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/haml/partials/pages/_index-content.haml" afterPath="$PROJECT_DIR$/haml/partials/pages/_index-content.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_layout.scss" afterPath="$PROJECT_DIR$/sass/partials/_layout.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/layouts/_main-content.scss" afterPath="$PROJECT_DIR$/sass/partials/layouts/_main-content.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_mixins.scss" afterPath="$PROJECT_DIR$/sass/partials/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/modules/_modal.scss" afterPath="$PROJECT_DIR$/sass/partials/modules/_modal.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_modules.scss" afterPath="$PROJECT_DIR$/sass/partials/_modules.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_placeholders.scss" afterPath="$PROJECT_DIR$/sass/partials/_placeholders.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/haml/partials/pages/_typo-content.haml" afterPath="$PROJECT_DIR$/haml/partials/pages/_typo-content.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_variables.scss" afterPath="$PROJECT_DIR$/sass/partials/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/modules/button-curtain.js" afterPath="$PROJECT_DIR$/js/modules/button-curtain.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/haml/index.haml" afterPath="$PROJECT_DIR$/haml/index.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/js.js" afterPath="$PROJECT_DIR$/js/js.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/min/js.min.js" afterPath="$PROJECT_DIR$/js/min/js.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/styles.scss" afterPath="$PROJECT_DIR$/sass/styles.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/haml/typo.haml" afterPath="$PROJECT_DIR$/haml/typo.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo.html" afterPath="$PROJECT_DIR$/typo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../www/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../www/.idea/workspace.xml" />
     </list>
     <ignored path="PageProofs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -99,51 +35,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="deals.haml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/haml/deals.haml">
+      <file leaf-file-name="styles.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/styles.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.625">
-              <caret line="17" column="86" selection-start-line="17" selection-start-column="86" selection-end-line="17" selection-end-column="86" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deals-list.haml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/haml/deals-list.haml">
+      <file leaf-file-name="_base.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sass/partials/_base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28145695">
-              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_aside-menu3.haml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/haml/partials/_aside-menu3.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.75">
-              <caret line="14" column="38" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_aside.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/partials/layouts/_aside.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-32.291668">
-              <caret line="90" column="7" selection-start-line="90" selection-start-column="7" selection-end-line="90" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_leasing-services-financial-content.haml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/haml/partials/pages/_leasing-services-financial-content.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-21.875">
-              <caret line="35" column="50" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+            <state vertical-scroll-proportion="0.08269019">
+              <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -201,7 +107,6 @@
         <option value="$PROJECT_DIR$/haml/blog.haml" />
         <option value="$PROJECT_DIR$/haml/partials/pages/_article-content.haml" />
         <option value="$PROJECT_DIR$/haml/article.haml" />
-        <option value="$PROJECT_DIR$/sass/partials/_base.scss" />
         <option value="$PROJECT_DIR$/haml/partials/pages/_deals-list-content.haml" />
         <option value="$PROJECT_DIR$/sass/partials/layouts/_main-content.scss" />
         <option value="$PROJECT_DIR$/haml/partials/pages/_deals-content.haml" />
@@ -213,6 +118,7 @@
         <option value="$PROJECT_DIR$/haml/deals.haml" />
         <option value="$PROJECT_DIR$/haml/deals-list.haml" />
         <option value="$PROJECT_DIR$/sass/partials/layouts/_aside.scss" />
+        <option value="$PROJECT_DIR$/sass/partials/_base.scss" />
       </list>
     </option>
   </component>
@@ -225,8 +131,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1256" />
-    <option name="height" value="1022" />
+    <option name="width" value="1680" />
+    <option name="height" value="1023" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -267,21 +173,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="PageProofs">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -402,6 +293,21 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="PageProofs">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -597,7 +503,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1256" height="1022" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24895397" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
@@ -610,7 +516,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Code Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.10873146" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21087314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21062271" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294893" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="100" y="124" width="1010" height="822" />
@@ -657,13 +563,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/haml/partials/modules/_modal-confirm.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48013246">
-          <caret line="29" column="67" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/haml/partials/pages/_404-content.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.875">
@@ -909,15 +808,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24834438">
           <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/partials/_base.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56953645">
-          <caret line="171" column="0" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -925,33 +815,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.43046358">
           <caret line="229" column="3" selection-start-line="229" selection-start-column="3" selection-end-line="229" selection-end-column="3" />
-          <folding>
-            <element signature="e#301#1395#0" expanded="false" />
-            <element signature="e#1414#1499#0" expanded="false" />
-            <element signature="e#1648#1713#0" expanded="false" />
-            <element signature="e#1906#2480#0" expanded="false" />
-            <element signature="e#2498#2672#0" expanded="false" />
-            <element signature="e#2700#4003#0" expanded="false" />
-            <element signature="e#4022#4079#0" expanded="false" />
-            <element signature="e#4098#4745#0" expanded="false" />
-            <element signature="e#4775#6008#0" expanded="false" />
-            <element signature="e#6036#6795#0" expanded="false" />
-            <element signature="e#6817#6998#0" expanded="false" />
-            <element signature="e#7023#9452#0" expanded="false" />
-            <element signature="e#7124#8304#0" expanded="false" />
-            <element signature="e#9470#9547#0" expanded="false" />
-            <element signature="e#9566#10231#0" expanded="false" />
-            <element signature="e#10247#11989#0" expanded="false" />
-            <element signature="e#10903#11184#0" expanded="false" />
-            <element signature="e#11201#11985#0" expanded="false" />
-            <element signature="e#12009#13030#0" expanded="false" />
-            <element signature="e#13045#14033#0" expanded="false" />
-            <element signature="e#13230#13477#0" expanded="false" />
-            <element signature="e#14053#14966#0" expanded="false" />
-            <element signature="e#14984#15961#0" expanded="false" />
-            <element signature="e#15982#17068#0" expanded="false" />
-            <element signature="e#17199#17471#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -974,7 +837,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -982,7 +844,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-32.5">
           <caret line="72" column="6" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -990,7 +851,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.25">
           <caret line="18" column="86" selection-start-line="18" selection-start-column="86" selection-end-line="18" selection-end-column="86" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -998,7 +858,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1006,13 +865,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/haml/partials/pages/_leasing-services-financial-content.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.875">
+        <state vertical-scroll-proportion="0.0">
           <caret line="35" column="50" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
           <folding />
         </state>
@@ -1022,13 +880,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.29801324">
           <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/haml/partials/_aside-menu3.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.75">
+        <state vertical-scroll-proportion="0.0">
           <caret line="14" column="38" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="38" />
           <folding />
         </state>
@@ -1036,7 +893,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/haml/deals.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.625">
+        <state vertical-scroll-proportion="0.0">
           <caret line="17" column="86" selection-start-line="17" selection-start-column="86" selection-end-line="17" selection-end-column="86" />
           <folding />
         </state>
@@ -1044,7 +901,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/partials/layouts/_aside.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-32.291668">
+        <state vertical-scroll-proportion="0.0">
           <caret line="90" column="7" selection-start-line="90" selection-start-column="7" selection-end-line="90" selection-end-column="7" />
           <folding />
         </state>
@@ -1052,8 +909,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/haml/deals-list.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28145695">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        <state vertical-scroll-proportion="-10.625">
+          <caret line="17" column="69" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/partials/_base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08269019">
+          <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
           <folding />
         </state>
       </provider>
