@@ -1,0 +1,97 @@
+// *****************************************************************************
+// Уши сайта
+// *****************************************************************************
+
+$left: -($site-full-width - $container-width)/2;
+
+%ears {
+  position: absolute;
+  @include selector-rhythm(left, $left);
+}
+
+// *****************************************************************************
+// Уши шапки сайта
+// *****************************************************************************
+.bg-header-ears {
+  @extend %ears;
+  top: 0;
+  background: $bg-header-ears;
+  width: $site-full-width;
+  height: $header-height;
+}
+.bg-header-ears-picture {
+  position: absolute;
+  top: 0;
+  @include selector-rhythm(right, -70px);
+  background-image: url("/img/bg-header-ears.png");
+  width: 265px;
+  height: 120px;
+
+}
+// *****************************************************************************
+// Уши главного меню сайта
+// *****************************************************************************
+.bg-mainmenu-ears {
+  @extend %ears;
+  top: $header-height;
+  background: $bg-mainmenu-ears;
+  width: $site-full-width;
+  height: $mainmenu-height;
+}
+
+// *****************************************************************************
+// Уши элементов сайта (как правило на главной странице)
+// *****************************************************************************
+.bg-ears {
+  @extend %ears;
+  top: 0;
+  background: $bg-ears;
+  width: $site-full-width;
+  height: $ears-height;
+}
+
+// *****************************************************************************
+// Уши подвала сайта
+// *****************************************************************************
+.bg-footer-ears {
+  @extend %ears;
+  bottom: $postfooter-height;
+  background: $bg-footer-ears;
+  width: $site-full-width;
+  height: $footer-height;
+}
+
+// *****************************************************************************
+// Уши нижней части подвала сайта
+// *****************************************************************************
+.bg-postfooter-ears {
+  @extend %ears;
+  bottom: 0;
+  background: $bg-postfooter-ears;
+  width: $site-full-width;
+  height: $postfooter-height;
+}
+
+.mainpage-ears {
+  @extend %ears;
+  top: $mainpage-top-cross;
+  background: $bg-mainpage-ears;
+  width: $site-full-width;
+  height: $mainpage-height-cross;
+}
+.mainpage-left-ears {
+  @extend %ears;
+  top: $mainpage-top;
+  background: $bg-mainpage-left-ears;
+  width: $mainpage-left-width;
+  height: $mainpage-height;
+}
+.mainpage-right-ears {
+  position: absolute;
+  right: 0;
+  margin-right: -500px;
+  top: $mainpage-top;
+  background: $bg-mainpage-right-ears;
+  width: $mainpage-right-width;
+  height: $mainpage-height;
+}

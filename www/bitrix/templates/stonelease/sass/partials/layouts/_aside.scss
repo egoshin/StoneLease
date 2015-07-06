@@ -1,0 +1,115 @@
+.aside-menu {
+  @extend .col3;
+  text-align: center;
+  h3 {
+    @include adjust-font-size-to($base-font-size);
+    font-weight: bold;
+  }
+  ul {
+    padding-left: 0;
+    @include selector-rhythm(margin-left, 15px);
+    li {
+      display: block;
+      @extend .bg-block-black-opacity;
+      @include border-radius(15px);
+      @include selector-rhythm(width, 215px);
+      @include selector-rhythm(height, 90px);
+      @include selector-rhythm(margin-bottom, 17px);
+      &:before {
+        content: normal;
+        padding-right: 0;
+      }
+      &:hover, &:active {
+        @extend .bg-block-red-opacity;
+      }
+      a {
+        display: block;
+        @include selector-rhythm(padding-top, 20px);
+        @include selector-rhythm(padding-bottom, 20px);
+        @include selector-rhythm(padding-left, 10px);
+        @include selector-rhythm(padding-right, 10px);
+        @include selector-rhythm(width, 215px);
+        @include selector-rhythm(height, 90px);
+        color: $color1;
+        text-decoration: none;
+        @include selector-rhythm(line-height, 18px);
+      }
+    }
+  }
+}
+.aside-menu3 {
+  @extend .col3;
+  text-align: center;
+  h3 {
+    @include adjust-font-size-to($base-font-size);
+    font-weight: bold;
+  }
+  ul {
+    padding-left: 0;
+    @include selector-rhythm(margin-left, 15px);
+    li {
+      @include selector-rhythm(margin-bottom, 17px);
+      &:before {
+        content: normal;
+        padding-right: 0;
+      }
+      %a-block {
+        display: block;
+        @include border-radius(15px);
+        text-decoration: none;
+        @include selector-rhythm(width, 215px);
+        @include selector-rhythm(height, 150px);
+        padding-top: 50px;
+        div {
+          @include border-radius(15px);
+          margin-left: 32.5px;
+          padding: 8px 5px;
+          width: 150px;
+          height: 50px;
+          background-color: rgba(255,255,255,.8);
+          color: $color2;
+          font-weight: bold;
+          text-transform: uppercase;
+          text-decoration: none;
+          @include selector-rhythm(line-height, 18px);
+        }
+        &:hover {
+          div {color: $color3;}
+        }
+      }
+      .auto {
+        background: url("/img/auto.jpg") no-repeat;
+        @extend %a-block;
+      }
+      .tech {
+        background: url("/img/tech.jpg") no-repeat;
+        @extend %a-block;
+      }
+      .obor {
+        background: url("/img/oborud.jpg") no-repeat;
+        @extend %a-block;
+      }
+    }
+  }
+}
+.about-menu-block {
+  @extend .block-light;
+  margin-top: 40px;
+  margin-left: 20px;
+  h5 {margin: 0;}
+  ul {
+    padding-left: 0;
+    li {
+      margin-top: 15px;
+      a {
+        line-height: 16px;
+        display: block;
+        color: $color2;
+      }
+      &:before {
+        content: normal;
+        padding-right: 0;
+      }
+    }
+  }
+}

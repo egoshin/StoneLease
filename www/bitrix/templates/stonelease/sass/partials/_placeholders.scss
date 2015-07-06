@@ -1,0 +1,16 @@
+// ====================================================================
+// Placeholder styles - these only get generated into the CSS if they are extended elsewhere
+// For example: @extend %clearfix;
+// ====================================================================
+%body { @include body($base-font-family, $base-font-color, $base-bg-color); }
+%headline-text-shadow { @include single-text-shadow; }
+%rounded { @include border-radius; }
+%round-tr { @include border-top-right-radius($border-radius); }
+%round-br { @include border-bottom-right-radius($border-radius); }
+%round-bl { @include border-bottom-left-radius($border-radius); }
+%round-tl { @include border-top-left-radius($border-radius); }
+%round-top { @include border-top-radius($border-radius); } // top left and top right
+%round-right { @include border-right-radius($border-radius); } // top right and bottom right
+%round-bottom { @include border-bottom-radius($border-radius); } // bottom right and bottom left
+%round-left { @include border-left-radius($border-radius); } // bottom left and bottom right
+%bb8 {border-bottom: 1px solid $color8;@include selector-rhythm(padding-bottom, 20px);}

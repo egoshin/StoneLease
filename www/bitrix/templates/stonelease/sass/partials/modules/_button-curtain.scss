@@ -1,0 +1,46 @@
+// =============================================================================
+// Кнопка с эффектом шторки
+// 		Файл SCSS: sass/partials/modules/_button-curtain.scss
+//		Файл JS: js/modules/button-curtain.js
+// =============================================================================
+// Подключение стилей кнопки с эффектом шторки: @import "modules/button-curtain";
+// =============================================================================
+.button-wrapper {
+  display: inline-block;
+  @include border-radius(15px);
+  @include margin-leader(.5);
+  @include margin-trailer(.5);
+  .button1, .button2 {
+    display: inline-block;
+    position: relative;
+    @include border-radius(15px);
+    div {
+      position: absolute;
+      bottom: 0;
+      @include border-bottom-radius(15px);
+      width: inherit;
+      h6 {
+        position: absolute;
+        top: 50%;
+        @include selector-rhythm(margin-top, -12px);
+        font-family: $base-font-family;
+        @include adjust-font-size-to($font-size-normal);
+        color: $color1;
+        text-transform: uppercase;
+        @include selector-rhythm(padding-left, 15px);
+        @include selector-rhythm(padding-right, 15px);
+      }
+      div {
+        position: relative;
+        background: none;
+        display: none;
+        font-family: $base-font-family;
+        @include selector-rhythm(font-size, 12px);
+        @include selector-rhythm(line-height, 16px);
+        color:$color1;
+      }
+    }
+  }
+  .button1 div {@extend .bg-block-black-opacity;}
+  .button2 div {@extend .bg-block-red-opacity;}
+}

@@ -1,0 +1,17 @@
+- # encoding: UTF-8
+-###############################################################################
+-# Компонент формы поиска
+-# 		Файл SCSS: sass/partials/modules/_search-form.scss
+-# 		Файл JS: js/modules/search-form.js
+-###############################################################################
+-# 
+-# Код для подключения компонента в исходном файле .haml:
+-#
+-# =Haml::Engine.new(IO.read("#{pathProject}modules/search-form.haml")).render
+-#
+-###############################################################################
+
+.search-wrapper
+	%form{:action => "/search", :name => "search", :method => "get", :role => "search"}
+		%input{:type => "text", :name => "search", :placeholder => "Поиск"}/
+		%input{:type => "submit", :value => ""}/

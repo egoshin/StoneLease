@@ -1,0 +1,52 @@
+@import "compass/css3/user-interface";
+
+// Input type search variables
+$s-font-family: $base-font-family;
+$s-font-size: 13px;
+$s-color: #442f2e;
+
+$s-width: 100px;
+$s-height: 25px;
+
+$s-padding-left: 5px;
+$s-padding-right: $s-padding-left;
+
+// Placeholder variables
+$ph-font-family: $s-font-family;
+$ph-font-size: $s-font-size;
+$ph-color: rgba($s-color, .3);
+
+.search-wrapper {
+  form {
+    input[type="text"] {
+      @include float-left;
+      font-family: $s-font-family;
+      color: $s-color;
+      @include border-left-radius;
+      border: none;
+      @include selector-rhythm(font-size, $s-font-size);
+      @include selector-rhythm(width, $s-width);
+      @include selector-rhythm(height, $s-height);
+      @include selector-rhythm(padding-right, $s-padding-right);
+      @include selector-rhythm(padding-left, $s-padding-left);
+      padding-top: 5px;
+      outline: none;
+      @include input-placeholder {
+        color: $ph-color;
+        @include selector-rhythm(line-height, 20px);
+      }
+    }
+    input[type="submit"] {
+      @include float-left;
+      @include border-right-radius;
+      @include legacy-pie-clearfix;
+      padding: 0;
+      cursor: pointer;
+      border: none;
+      background: white url("/img/icons.png");
+      background-position: 33.33333% 99%;
+      width: 30px;
+      height: 25px;
+    }
+  }
+}

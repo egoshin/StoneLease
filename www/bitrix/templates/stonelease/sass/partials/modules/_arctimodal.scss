@@ -1,0 +1,90 @@
+//******************************************************************************
+// Компонент модальные окна
+// 		Файл SCSS: sass/partials/modules/_modal.scss
+// 		Файлы JS:  js/modules/jquery.arcticmodal.js
+//               js/modules/modal.js
+//******************************************************************************
+
+.g-hidden {
+  display: none;
+}
+
+.arcticmodal-overlay,
+.arcticmodal-container {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1000;
+}
+
+.arcticmodal-container {
+  overflow: auto;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-collapse: collapse;
+}
+
+*:first-child + html .arcticmodal-container {
+  height: 100%;
+}
+
+.arcticmodal-container_i {
+  height: 100%;
+  margin: 0 auto;
+}
+
+.arcticmodal-container_i2 {
+  @include selector-rhythm(padding, 24px);
+  margin: 0;
+  border: 0;
+  vertical-align: top; //default: vertical-align: middle;
+}
+
+.arcticmodal-error {
+  @include selector-rhythm(padding, 20px);
+  @include selector-rhythm(border-radius, 10px);
+  background: black;
+  color: white;
+}
+
+.arcticmodal-loading {
+  @include selector-rhythm(width, 80px);
+  @include selector-rhythm(height, 80px);
+  @include selector-rhythm(border-radius, 10px);
+  background: black url("../img/loading.gif") no-repeat 50% 50%;
+}
+
+.box-modal {
+  position: relative;
+  @include selector-rhythm(width, $modal-width);
+  @include selector-rhythm(padding, 16px);
+  @include selector-rhythm(margin-top, 150px);
+  background: $modal-background;
+  //box-shadow: 0 0 0 6px rgba(153, 153, 153, .3);
+  @include selector-rhythm(border-radius, 15px);
+  h2 {
+    font-weight: normal;
+    text-align: center;
+    margin: 10px;
+  }
+}
+
+.box-modal_close {
+  position: absolute;
+  @include selector-rhythm(right, 15px);
+  @include selector-rhythm(top, 15px);
+  background: url("/img/icons.png") -159px -115px;
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+  &:hover {
+    background: url("/img/icons.png") -159px -140px;
+  }
+}
+
+.box-modal_close:hover {
+  color: white;
+}

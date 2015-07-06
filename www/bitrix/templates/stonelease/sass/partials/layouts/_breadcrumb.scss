@@ -1,0 +1,32 @@
+// ====================================================================
+// Layout breadcrumbs
+// ====================================================================
+.breadcrumbs {
+  position: relative;
+  @include container;
+  @include selector-rhythm(height, $breadcrumbs-height);
+  @include selector-rhythm(padding-top, 20px);
+  @include selector-rhythm(margin-bottom, 25px);
+  ul {
+    @include span(12);
+    @include horizontal-list(2px);
+    margin: 0;
+    padding: 0;
+    li:after {
+      content: "/";
+    }
+    li:last-child:after {
+      content: " ";
+    }
+    a {
+      color: $breadcrumbs-color;
+      text-decoration: underline;
+      &:hover, &:focus {
+        text-decoration: none;
+      }
+    }
+  }
+  .redline {
+    @include selector-rhythm(margin-top, 37px);
+  }
+}

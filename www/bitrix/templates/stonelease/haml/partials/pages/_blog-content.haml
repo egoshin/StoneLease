@@ -1,0 +1,40 @@
+- # encoding: UTF-8
+- pathProject = "/Users/yegoshin/Google Диск/project/StoneLease/Site/PageProofs/haml/partials/"
+
+.blog-list-block
+  .col9
+    .list-block
+      %h1 Блог
+      %ul
+        %li
+          %h3 Название статьи
+          %p.date 11.11.2014
+          %img{:src => "http://placekitten.com/g/700/165", :alt => "Новость", :width => "700", :height => "165"}
+          %p
+            Компания Renault с 19 февраля 2015 года снизит российские цены на кроссовер Renault Duster. Автомобиль
+            подешевеет на 3%. Об этом со ссылкой на дилеров французской марки и представителей «РеноРоссия» сообщают
+            «Ведомости».
+            %a{:href => "#"} Читать далее
+        %li
+          %h3 Название статьи
+          %p.date 11.11.2014
+          %img{:src => "http://placekitten.com/g/700/165", :alt => "Новость", :width => "700", :height => "165"}
+          %p
+            Компания Renault с 19 февраля 2015 года снизит российские цены на кроссовер Renault Duster. Автомобиль
+            подешевеет на 3%. Об этом со ссылкой на дилеров французской марки и представителей «РеноРоссия» сообщают
+            «Ведомости».
+            %a{:href => "#"} Читать далее
+        %li
+          %h3 Название статьи
+          %p.date 11.11.2014
+          %img{:src => "http://placekitten.com/g/700/165", :alt => "Новость", :width => "700", :height => "165"}
+          %p
+            Компания Renault с 19 февраля 2015 года снизит российские цены на кроссовер Renault Duster. Автомобиль
+            подешевеет на 3%. Об этом со ссылкой на дилеров французской марки и представителей «РеноРоссия» сообщают
+            «Ведомости».
+            %a{:href => "#"} Читать далее
+      .btn-prev
+        %a{:href => "#", :class => "button-red"} Предыдущие
+      .btn-next
+        %a{:href => "#", :class => "button-white"} Следующие
+  =Haml::Engine.new(IO.read("#{pathProject}_aside-menu2.haml")).render

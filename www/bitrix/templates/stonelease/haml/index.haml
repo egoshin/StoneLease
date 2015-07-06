@@ -1,0 +1,19 @@
+- # encoding: UTF-8
+- pathProject = "/Users/yegoshin/Google Диск/project/StoneLease/Site/PageProofs/haml/partials/"
+!!!
+%html{:lang => "en"}
+  %head
+    =Haml::Engine.new(IO.read("#{pathProject}_head.haml")).render
+  %body
+    .corper
+      .wrap
+        =Haml::Engine.new(IO.read("#{pathProject}_header.haml")).render
+        =Haml::Engine.new(IO.read("#{pathProject}_mainmenu.haml")).render
+        .mainpage-ears
+        .mainpage-left-ears
+        .mainpage-right-ears
+        %div{:role => "main", :class => "mainpage"}
+          =Haml::Engine.new(IO.read("#{pathProject}pages/_index-content.haml")).render
+        =Haml::Engine.new(IO.read("#{pathProject}_footer.haml")).render
+        =Haml::Engine.new(IO.read("#{pathProject}_postfooter.haml")).render
+        =Haml::Engine.new(IO.read("#{pathProject}modules/_modal-writeme.haml")).render

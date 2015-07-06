@@ -1,0 +1,53 @@
+// Настройка уникальных свойств пользовательских модальных окон
+
+#writemeModal {
+  @include selector-rhythm(height, $modal-height-writeme);
+  form {
+    .section-input {
+      @include legacy-pie-clearfix;
+      .form-group {
+        float: left;
+        @include selector-rhythm(width, 345px);
+        label {
+          float: left;
+          @include selector-rhythm(margin, 5px);
+          @include selector-rhythm(width, 75px);
+        }
+        input, textarea {
+          @include selector-rhythm(width, 230px);
+        }
+        textarea {
+          @include selector-rhythm(height, 110px);
+        }
+      }
+    }
+    .section-submit {
+      @include legacy-pie-clearfix;
+      @include selector-rhythm(margin-top, 35px);
+      button {
+        float: left;
+        @include selector-rhythm(margin-right, 35px);
+      }
+      .requre-field-message {
+        float: left;
+        span {color: $color3;}
+      }
+    }
+  }
+}
+
+#confirmModal {
+  @include selector-rhythm(height, $modal-height-confirm);
+  h3 {
+    @include adjust-font-size-to(40px);
+    font-weight: normal;
+    @include selector-rhythm(margin-top, 35px);
+    @include selector-rhythm(margin-bottom, 10px);
+    text-align: center;
+  }
+  h4 {
+    @include adjust-font-size-to(28px);
+    margin: 0;
+    text-align: center;
+  }
+}

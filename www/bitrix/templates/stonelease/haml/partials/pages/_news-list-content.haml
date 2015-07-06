@@ -1,0 +1,79 @@
+- # encoding: UTF-8
+- pathProject = "/Users/yegoshin/Google Диск/project/StoneLease/Site/PageProofs/haml/partials/"
+
+%h1 Новости
+.news-list-block
+  .col9
+    .list-block
+      %ul
+        %li
+          .left-list-block
+            %img{:src => "http://placekitten.com/g/95/95", :alt => "Новость", :width => "95", :height => "95"}
+          .right-list-block
+            %h3 Название новости
+            %p.date 11.11.2014
+            %p
+              Компания Renault с 19 февраля 2015 года снизит российские цены на кроссовер Renault Duster. Автомобиль
+              подешевеет на 3%. Об этом со ссылкой на дилеров французской марки и представителей «РеноРоссия» сообщают
+              «Ведомости».
+              %a{:href => "#"} Читать далее
+        %li
+          .left-list-block
+            %img{:src => "http://placekitten.com/g/95/95", :alt => "Новость", :width => "95", :height => "95"}
+          .right-list-block
+            %h3 Название новости
+            %p.date 11.11.2014
+            %p
+              Компания Renault с 19 февраля 2015 года снизит российские цены на кроссовер Renault Duster. Автомобиль
+              подешевеет на 3%. Об этом со ссылкой на дилеров французской марки и представителей «РеноРоссия» сообщают
+              «Ведомости».
+              %a{:href => "#"} Читать далее
+        %li
+          .left-list-block
+            %img{:src => "http://placekitten.com/g/95/95", :alt => "Новость", :width => "95", :height => "95"}
+          .right-list-block
+            %h3 Название новости
+            %p.date 11.11.2014
+            %p
+              Компания Renault с 19 февраля 2015 года снизит российские цены на кроссовер Renault Duster. Автомобиль
+              подешевеет на 3%. Об этом со ссылкой на дилеров французской марки и представителей «РеноРоссия» сообщают
+              «Ведомости».
+              %a{:href => "#"} Читать далее
+        %li
+          .left-list-block
+            %img{:src => "http://placekitten.com/g/95/95", :alt => "Новость", :width => "95", :height => "95"}
+          .right-list-block
+            %h3 Название новости
+            %p.date 11.11.2014
+            %p
+              Компания Renault с 19 февраля 2015 года снизит российские цены на кроссовер Renault Duster. Автомобиль
+              подешевеет на 3%. Об этом со ссылкой на дилеров французской марки и представителей «РеноРоссия» сообщают
+              «Ведомости».
+              %a{:href => "#"} Читать далее
+        %li
+          .left-list-block
+            %img{:src => "http://placekitten.com/g/95/95", :alt => "Новость", :width => "95", :height => "95"}
+          .right-list-block
+            %h3 Название новости
+            %p.date 11.11.2014
+            %p
+              Компания Renault с 19 февраля 2015 года снизит российские цены на кроссовер Renault Duster. Автомобиль
+              подешевеет на 3%. Об этом со ссылкой на дилеров французской марки и представителей «РеноРоссия» сообщают
+              «Ведомости».
+              %a{:href => "#"} Читать далее
+        %li
+          .left-list-block
+            %img{:src => "http://placekitten.com/g/95/95", :alt => "Новость", :width => "95", :height => "95"}
+          .right-list-block
+            %h3 Название новости
+            %p.date 11.11.2014
+            %p
+              Компания Renault с 19 февраля 2015 года снизит российские цены на кроссовер Renault Duster. Автомобиль
+              подешевеет на 3%. Об этом со ссылкой на дилеров французской марки и представителей «РеноРоссия» сообщают
+              «Ведомости».
+              %a{:href => "#"} Читать далее
+      .btn-prev
+        %a{:href => "#", :class => "button-red"} Предыдущие
+      .btn-next
+        %a{:href => "#", :class => "button-white"} Следующие
+  =Haml::Engine.new(IO.read("#{pathProject}_aside.haml")).render

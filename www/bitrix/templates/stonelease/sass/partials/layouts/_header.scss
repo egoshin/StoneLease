@@ -1,0 +1,96 @@
+// ====================================================================
+// Layout header
+// ====================================================================
+header {
+  @include container;
+  @include selector-rhythm(height, $header-height);
+  @include selector-rhythm(padding-top, 21px);
+  background: $header-background;
+  .inner-header {
+    color: $header-color;
+    .logotype {
+      @include span(2 first);
+      img {
+        margin-bottom: 0 !important;
+      }
+    }
+    .address {
+      @include prefix(25px);
+      @include span(3);
+      line-height: 1.4em;
+      a {
+        line-height: 1.4em;
+        text-decoration: none;
+        &:hover, &:focus {
+          text-decoration: underline;
+        }
+      }
+      span {color: $color3;}
+    }
+    .header-block1 {
+      @include prefix(50px);
+      @include span(2.5);
+      a {
+        display: block;
+        margin-top: 5px;
+        @include adjust-font-size-to(12px);
+        color: $color1;
+        text-align: center;
+        text-decoration: none;
+        text-transform: uppercase;
+        background: url("/img/icons.png") 0px -111px;
+        width: 145px;
+        height: 23px;
+        &:before {
+          display: inline-block;
+          content: " ";
+          background: url("/img/icons.png") -45px -48px;
+          width: 13px;
+          height: 10px;
+          margin-right: 10px;
+        }
+        &:hover, &:focus {
+          background-position: 0px -136px;
+        }
+      }
+      div {
+        @include adjust-font-size-to($font-large);
+        margin-left: 7px;
+        span {@include adjust-font-size-to($font-small);}
+      }
+    }
+    .header-block2 {
+      @include prefix(10px);
+      @include span(2.5);
+      a {
+        display: block;
+        margin-top: 5px;
+        @include adjust-font-size-to(12px);
+        color: $header-color;
+        text-align: center;
+        text-decoration: none;
+        text-transform: uppercase;
+        background: url("/img/icons.png") 0px -160px;
+        width: 155px;
+        height: 23px;
+        &:before {
+          display: inline-block;
+          content: " ";
+          background: url("/img/icons.png") -92px -45px;
+          width: 14px;
+          height: 15px;
+          margin-right: 10px;
+          margin-bottom: -1px;
+        }
+        &:hover, &:focus {
+          background-position: 0px -186px;
+        }
+      }
+      div {
+        @include adjust-font-size-to($font-large);
+        margin-left: 12px;
+        span {@include adjust-font-size-to($font-small);}
+      }
+    }
+  }
+}

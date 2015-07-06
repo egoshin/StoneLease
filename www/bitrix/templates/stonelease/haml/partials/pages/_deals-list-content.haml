@@ -1,0 +1,38 @@
+- # encoding: UTF-8
+- pathProject = "/Users/yegoshin/Google Диск/project/StoneLease/Site/PageProofs/haml/partials/"
+
+.col9
+  .deals-list-block
+    %h1 Спецпредложения
+    %ul
+      %li
+        %a
+          %img{:src => "/images/dials/finance.png"}
+          %div
+            Финансовый лизинг
+      %li
+        %a
+          %img{:src => "/images/dials/operational.png"}
+          %div
+            Оперативное предложение за 3.5%
+      %li
+        %a
+          %img{:src => "/images/dials/spec.png"}
+          %div
+            Спецпредложения в марте
+      %li
+        %a
+          %img{:src => "/images/dials/finance2.png"}
+          %div
+            Финансовый лизинг
+      %li
+        %a
+          %img{:src => "/images/dials/operational2.png"}
+          %div
+            Оперативное предложение за 3.5%
+      %li
+        %a
+          %img{:src => "/images/dials/spec2.png"}
+          %div
+            Спецпредложения в марте
+=Haml::Engine.new(IO.read("#{pathProject}_aside-menu3.haml")).render
