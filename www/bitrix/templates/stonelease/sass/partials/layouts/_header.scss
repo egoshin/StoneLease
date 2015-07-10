@@ -5,6 +5,7 @@ header {
   @include container;
   @include selector-rhythm(height, $header-height);
   @include selector-rhythm(padding-top, 21px);
+  @include selector-rhythm(padding-left, 20px);
   background: $header-background;
   .inner-header {
     color: $header-color;
@@ -12,11 +13,15 @@ header {
       @include span(2 first);
       img {
         margin-bottom: 0 !important;
+        width: 155px;
+        height: 70px;
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
       }
     }
     .address {
       @include prefix(25px);
-      @include span(3);
+      @include span(3.2);
       line-height: 1.4em;
       a {
         line-height: 1.4em;
@@ -38,13 +43,13 @@ header {
         text-align: center;
         text-decoration: none;
         text-transform: uppercase;
-        background: url("/img/icons.png") 0px -111px;
+        background: url("../img/icons.png") 0px -111px;
         width: 145px;
         height: 23px;
         &:before {
           display: inline-block;
           content: " ";
-          background: url("/img/icons.png") -45px -48px;
+          background: url("../img/icons.png") -45px -48px;
           width: 13px;
           height: 10px;
           margin-right: 10px;
@@ -70,13 +75,13 @@ header {
         text-align: center;
         text-decoration: none;
         text-transform: uppercase;
-        background: url("/img/icons.png") 0px -160px;
+        background: url("../img/icons.png") 0px -160px;
         width: 155px;
         height: 23px;
         &:before {
           display: inline-block;
           content: " ";
-          background: url("/img/icons.png") -92px -45px;
+          background: url("../img/icons.png") -92px -45px;
           width: 14px;
           height: 15px;
           margin-right: 10px;

@@ -6,6 +6,8 @@ footer {
   color: $color1;
   @include selector-rhythm(height, $footer-height);
   @include selector-rhythm(padding-top, 23px);
+  @include selector-rhythm(padding-left, 20px);
+  @include selector-rhythm(padding-right, 20px);
   background: $footer-background;
   ul {
     @include no-bullet;

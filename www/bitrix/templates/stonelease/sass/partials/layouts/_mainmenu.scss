@@ -10,7 +10,7 @@
   text-transform: uppercase;
   ul {
     @include span(12);
-    @include inline-block-list(26px);
+    @include inline-block-list(25px);
     @include no-bullet;
     margin: 0;
     padding: 0;

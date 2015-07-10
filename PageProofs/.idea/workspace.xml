@@ -5,9 +5,102 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c66ec1ab-2a0c-4264-96ab-fd4baae88f3b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/fonts/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/partials/layouts/leasing-application-content.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/404.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/about.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/article.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/blog.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/contacts.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/deals-list.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/deals.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/index.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/leasing-application.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/leasing-car.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/leasing-services-financial.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/leasing-services-operational.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/news-list.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/news.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/_aside-menu.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/_aside-menu2.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/_aside-menu3.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/_aside.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/_breadcrumb.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/_footer.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/_head.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/_header.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/_mainmenu.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/_postfooter.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/modules/_button-curtain-black.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/modules/_button-curtain-red.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/modules/_modal-confirm.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/modules/_modal-writeme.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/modules/_search-form.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/pages/_404-content.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/pages/_about-content.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/pages/_article-content.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/pages/_blog-content.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/pages/_contacts-content.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/pages/_deals-content.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/pages/_deals-list-content.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/pages/_index-content.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/pages/_leasing-application-content.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/pages/_leasing-car-content.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/pages/_leasing-services-financial-content.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/pages/_leasing-services-operational-content.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/pages/_news-content.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/pages/_news-list-content.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/pages/_sitemap-content.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/partials/pages/_typo-content.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/sitemap.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/haml/typo.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/daewoo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/dials/finance.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/dials/finance2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/dials/operational.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/dials/operational2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/dials/spec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/dials/spec2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/honda.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/hyundai.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/leasing/auto.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/leasing/oborud.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/leasing/technica.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/main/concur1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/main/concur2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/main/concur3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/main/concur4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/main/concur5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/main/concur6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/main/concur7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/main/financical.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/main/operational.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/mazda.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/mitsubishi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/slides/slide1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/slides/slide2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/images/wolf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/js/modules/modal.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../www/404.php" afterPath="$PROJECT_DIR$/../www/404.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/modules/_arctimodal.scss" afterPath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/modules/_arctimodal.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/layouts/_aside.scss" afterPath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/layouts/_aside.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/_base.scss" afterPath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/_base.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/modules/_ears.scss" afterPath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/modules/_ears.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/layouts/_footer.scss" afterPath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/layouts/_footer.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/layouts/_header.scss" afterPath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/layouts/_header.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/modules/_jcarousel.basic.scss" afterPath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/modules/_jcarousel.basic.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/layouts/_main-content.scss" afterPath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/layouts/_main-content.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/layouts/_mainmenu.scss" afterPath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/layouts/_mainmenu.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/_placeholders.scss" afterPath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/_placeholders.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/layouts/_postfooter.scss" afterPath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/layouts/_postfooter.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/modules/_search-form.scss" afterPath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/modules/_search-form.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/_variables.scss" afterPath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/sass/partials/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.codekit" afterPath="$PROJECT_DIR$/config.codekit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/footer.php" afterPath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/header.php" afterPath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../www/index.php" afterPath="$PROJECT_DIR$/../www/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/css/styles.css" afterPath="$PROJECT_DIR$/../www/bitrix/templates/stonelease/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../www/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../www/.idea/workspace.xml" />
     </list>
     <ignored path="PageProofs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,12 +128,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="styles.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/styles.scss">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="-11.875">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+              <folding>
+                <element signature="n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#footer#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#8;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#9;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#9;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,19 +149,45 @@
       <file leaf-file-name="_base.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sass/partials/_base.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.375">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state vertical-scroll-proportion="-5.625">
+              <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <file leaf-file-name="article.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/article.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.043290045">
-              <caret line="2" column="108" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="108" />
+            <state vertical-scroll-proportion="0.09417041">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="24" />
+              <folding>
+                <element signature="n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#nav#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_ears.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/partials/modules/_ears.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.0">
+              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="40" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="js.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/js.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -251,6 +378,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PageProofs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PageProofs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="layouts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -265,7 +414,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -279,25 +428,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="haml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PageProofs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PageProofs" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="haml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
+              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -528,7 +663,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24817519" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294893" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -540,7 +675,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Code Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.10873146" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21062271" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21062271" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294893" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="100" y="124" width="1010" height="822" />
@@ -587,34 +722,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/haml/404.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21523179">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/haml/typo.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29801324">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/haml/partials/modules/_button-curtain-red.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29801324">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/modules/button-curtain.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3548387">
-          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sass/partials/modules/_button-curtain.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-26.875">
@@ -706,13 +813,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/modules/modal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sass/partials/modules/_modal.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.44701988">
@@ -769,13 +869,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/haml/article.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.625">
-          <caret line="17" column="86" selection-start-line="17" selection-start-column="86" selection-end-line="17" selection-end-column="86" />
         </state>
       </provider>
     </entry>
@@ -940,19 +1033,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/partials/_base.scss">
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.375">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="108" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="108" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/sass/partials/modules/_ears.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.043290045">
-          <caret line="2" column="108" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="108" />
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="40" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.875">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#9;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haml/article.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38116592">
+          <caret line="17" column="86" selection-start-line="17" selection-start-column="86" selection-end-line="17" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/partials/_base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09417041">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#nav#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

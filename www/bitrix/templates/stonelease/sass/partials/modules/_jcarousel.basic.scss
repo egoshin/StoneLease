@@ -35,14 +35,14 @@
       text-decoration: none;
       display: inline-block;
       @include adjust-font-size-to($base-font-size);
-      background: url("/img/icons.png") -150px -77px;
+      background: url("../img/icons.png") -150px -77px;
       width: 27px;
       height: 27px;
       color: $color1;
       padding: 1px 0 0 1px;
       text-align: center;
       margin-right: 2px;
-      &.active {background: url("/img/icons.png") -150px -45px;}
+      &.active {background: url("../img/icons.png") -150px -45px;}
     }
   }
 }

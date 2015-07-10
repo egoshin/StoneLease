@@ -47,12 +47,12 @@ $bg-mainmenu-ears: none $color3; // Фоновое изображение гла
 // ====================================================================
 $mainpage-height: 1050px;
 $mainpage-left-width: 772px;
-$mainpage-top: 150px;
-$bg-mainpage-left-ears: url("/img/bg-main-ears-left.png") no-repeat transparent;
+$mainpage-top: 0;
+$bg-mainpage-left-ears: url("../img/bg-main-ears-left.png") no-repeat transparent;
 $mainpage-right-width: 835px;
-$bg-mainpage-right-ears: url("/img/bg-main-ears-right.png") no-repeat transparent;
-$mainpage-top-cross: 780px;
-$bg-mainpage-ears: url("/img/bg-main-cross.jpg") repeat transparent;
+$bg-mainpage-right-ears: url("../img/bg-main-ears-right.png") no-repeat transparent;
+$mainpage-top-cross: 630px;
+$bg-mainpage-ears: url("../img/bg-main-cross.jpg") repeat transparent;
 $mainpage-height-cross: 430px;
 
 
@@ -80,7 +80,7 @@ $bg-postfooter-ears: none $color5; // Фоновое изображение ни
 // Свойства фоновых изображений и ушей сайта
 // ====================================================================
 $ears-height: auto; // Высота ушей элементов сайта (как правило на главной странице)
-$bg-ears: url("/img/") #fff; // Фоновое изображение ушей элементов сайта (как правило на главной странице)
+$bg-ears: url("../img/") #fff; // Фоновое изображение ушей элементов сайта (как правило на главной странице)
 
 // ====================================================================
 // Свойства модальных окон
@@ -133,9 +133,5 @@ $susy: (
         columns: $columns-number,
         gutters: $gutters-width,
         gutter-position: inside,
-        output: float,
-        debug: (
-                image: show-columns,
-                output: overlay,
-        )
+        output: float
 );

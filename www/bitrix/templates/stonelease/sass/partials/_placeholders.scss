@@ -2,7 +2,11 @@
 // Placeholder styles - these only get generated into the CSS if they are extended elsewhere
 // For example: @extend %clearfix;
 // ====================================================================
-%body { @include body($base-font-family, $base-font-color, $base-bg-color); }
+%body {
+  @include body($base-font-family, $base-font-color, $base-bg-color);
+  width: 100%;
+  @include selector-rhythm(min-width, 960px);
+}
 %headline-text-shadow { @include single-text-shadow; }
 %rounded { @include border-radius; }
 %round-tr { @include border-top-right-radius($border-radius); }

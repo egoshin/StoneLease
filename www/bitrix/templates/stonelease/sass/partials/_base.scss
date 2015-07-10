@@ -3,15 +3,33 @@
 // ====================================================================
 @include uwd-rhytm-config($base-font-size, $base-line-height-scale);
 @include establish-baseline;
-* {@include box-sizing($box-model); margin: 0; padding: 0;}
+* {@include box-sizing($box-model);}
 body {@extend %body;}
-.corper {
-  overflow: hidden;
-  @include selector-rhythm(min-width, $container-width);
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
 }
-.wrap {
-  @include selector-rhythm(width, $container-width);
-  margin: 0 auto;
+.corper {
+  overflow-x: hidden;
+  overflow-y: scroll;
+  min-width: 960px;
+  height: 100%;
+  .without-footer {
+    position: relative;
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin-bottom: -160px;
+    .footer-reserved {
+      height: 160px;
+      background: transparent;
+      clear: both;
+    }
+  }
+}
+.site-footer {
+  height: 160px;
   position: relative;
 }
 header, footer, [role="main"] {position: relative;}
@@ -67,23 +85,23 @@ a {
 .button-red {
   @extend %button-template;
   color: $color1;
-  background: url("/img/icons.png") 0px -111px;
+  background: url("../img/icons.png") 0px -111px;
   width: 145px;
   &:hover, &:focus {background-position: 0px -136px;}
 }
 .button-red-long {
   @extend %button-template;
   color: $color1;
-  background: url("/img/button-red-long.png") no-repeat;
+  background: url("../img/button-red-long.png") no-repeat;
   @include adjust-font-size-to(12px);
   width: 372px;
   height: 26px;
-  &:hover, &:focus {background: url("/img/button-red-long-hover.png") no-repeat;}
+  &:hover, &:focus {background: url("../img/button-red-long-hover.png") no-repeat;}
 }
 .button-white {
   @extend %button-template;
   color: $color7;
-  background: url("/img/icons.png") 0px -160px;
+  background: url("../img/icons.png") 0px -160px;
   width: 155px;
   &:hover, &:focus {background-position: 0px -186px;}
 }
@@ -142,29 +160,29 @@ button {padding: 0;}
 .redline {
   @include clearfix;
   position: relative;
-  background-image: url("/img/line.png");
-  width: $container-width - $container-padding-left - $container-padding-right;
+  background-image: url("../img/line.png");
+  width: 940px;
   height: 3px;
 }
 .line1 {
   @include clearfix;
   position: relative;
   background-color: $color2;
-  width: $container-width - $container-padding-left - $container-padding-right;
+  width: 940px;
   height: 1px;
 }
 .line2 {
   @include clearfix;
   position: relative;
   background-color: $color2;
-  width: $container-width - $container-padding-left - $container-padding-right;
+  width: 940px;
   height: 2px;
 }
 .line3 {
   @include clearfix;
   position: relative;
   background-color: $color2;
-  width: $container-width - $container-padding-left - $container-padding-right;
+  width: 940px;
   height: 3px;
 }
 .bg-block-dark {background-color: $color8;}

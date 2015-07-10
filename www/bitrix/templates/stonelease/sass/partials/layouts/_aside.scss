@@ -78,15 +78,15 @@
         }
       }
       .auto {
-        background: url("/img/auto.jpg") no-repeat;
+        background: url("../img/auto.jpg") no-repeat;
         @extend %a-block;
       }
       .tech {
-        background: url("/img/tech.jpg") no-repeat;
+        background: url("../img/tech.jpg") no-repeat;
         @extend %a-block;
       }
       .obor {
-        background: url("/img/oborud.jpg") no-repeat;
+        background: url("../img/oborud.jpg") no-repeat;
         @extend %a-block;
       }
     }

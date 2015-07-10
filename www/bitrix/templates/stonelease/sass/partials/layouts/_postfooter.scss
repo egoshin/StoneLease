@@ -7,6 +7,8 @@
   color: $color6;
   @include selector-rhythm(height, $postfooter-height);
   @include selector-rhythm(padding-top, 10px);
+  @include selector-rhythm(padding-left, 20px);
+  @include selector-rhythm(padding-right, 20px);
   background: $postfooter-background;
   text-transform: uppercase;
   a {

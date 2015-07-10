@@ -76,12 +76,12 @@
   position: absolute;
   @include selector-rhythm(right, 15px);
   @include selector-rhythm(top, 15px);
-  background: url("/img/icons.png") -159px -115px;
+  background: url("../img/icons.png") -159px -115px;
   width: 18px;
   height: 18px;
   cursor: pointer;
   &:hover {
-    background: url("/img/icons.png") -159px -140px;
+    background: url("../img/icons.png") -159px -140px;
   }
 }
 

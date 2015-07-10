@@ -1911,15 +1911,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/css\/partials\/layouts\/leasing-application-content.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/partials\/layouts\/leasing-application-content.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/css\/styles.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -3209,17 +3200,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/modules\/jquery.keeptherhythm.js",
 		"outputAbbreviatedPath": "\/js\/modules\/min\/jquery.keeptherhythm-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/modules\/modal.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/js\/modules\/modal.js",
-		"outputAbbreviatedPath": "\/js\/modules\/min\/modal-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
