@@ -1,6 +1,11 @@
 # StoneLease
 
 Проект StoneLease (сайт на 1C-Bitrix). Менеджер: Марианна Кузнецова
+-----
+
+## Техническое задание
+
+Скачать: https://drive.google.com/folderview?id=0B0DIwaUHD7Y2ZjhZNWFiekpfQ0k&usp=sharing
 
 -----
 
@@ -17,8 +22,6 @@ https://drive.google.com/folderview?id=0B0DIwaUHD7Y2Y1hqSTU3YzhkN0E&usp=sharing
 -----
 
 ## Верстка сайта
-
-Путь к каталогу на диске: /Users/yegoshin/Google Диск/project/StoneLease/Site/PageProofs
 
 Папка с версткой на google disk: https://drive.google.com/folderview?id=0B0DIwaUHD7Y2RjBiME5fTHl4RlE&usp=sharing
 
@@ -40,3 +43,12 @@ https://drive.google.com/folderview?id=0B0DIwaUHD7Y2Y1hqSTU3YzhkN0E&usp=sharing
 14. http://stonelease.egoshin.net/news.html
 15. http://stonelease.egoshin.net/sitemap.html
 16. http://stonelease.egoshin.net/typography.html
+
+-----
+
+## Программирование сайта
+
+CMS: 1C-Bitrix
+Сайт: http://sl.egoshin.net
+Админка: http://sl.egoshin.net/bitrix/admin/index.php#authorize
+Доступ к админке вы можете получить у Кузнецовой Марианны: marianna@whim.ru
