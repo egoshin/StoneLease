@@ -49,6 +49,9 @@ https://drive.google.com/folderview?id=0B0DIwaUHD7Y2Y1hqSTU3YzhkN0E&usp=sharing
 ## Программирование сайта
 
 CMS: 1C-Bitrix
+
 Сайт: http://sl.egoshin.net
+
 Админка: http://sl.egoshin.net/bitrix/admin/index.php#authorize
+
 Доступ к админке вы можете получить у Кузнецовой Марианны: marianna@whim.ru
