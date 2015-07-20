@@ -26,5 +26,5 @@ doc/
 .idea
 .secret
 Icon
-php_interface/
+/bitrix/php_interface/
 /nbproject/private/
