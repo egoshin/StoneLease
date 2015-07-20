@@ -42,6 +42,7 @@
             <excludedPath path="/bitrix/virtual_file_system.php" />
             <excludedPath path="/bitrix/web.config" />
             <excludedPath path="/bitrix/templates/.default" />
+            <excludedPath path="/bitrix/php_interface" />
           </excludedPaths>
         </serverdata>
       </paths>
