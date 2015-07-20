@@ -7,6 +7,8 @@
   @include selector-rhythm(height, $breadcrumbs-height);
   @include selector-rhythm(padding-top, 20px);
   @include selector-rhythm(margin-bottom, 25px);
+  @include selector-rhythm(padding-left, 10px);
+  @include selector-rhythm(padding-right, 10px);
   ul {
     @include span(12);
     @include horizontal-list(2px);
@@ -14,6 +16,7 @@
     padding: 0;
     li:after {
       content: "/";
+      padding-left: 5px;
     }
     li:last-child:after {
       content: " ";

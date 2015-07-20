@@ -1857,6 +1857,194 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/components\/bitrix\/breadcrumb\/bc\/images\/breadcrumbs_arrow.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2810,
+		"inputAbbreviatedPath": "\/components\/bitrix\/breadcrumb\/bc\/images\/breadcrumbs_arrow.png",
+		"outputAbbreviatedPath": "\/components\/bitrix\/breadcrumb\/bc\/images\/breadcrumbs_arrow.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/components\/bitrix\/breadcrumb\/bc\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/components\/bitrix\/breadcrumb\/bc\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/components\/bitrix\/breadcrumb\/bc\/style.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/components\/bitrix\/breadcrumb\/bc\/style.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/components\/bitrix\/breadcrumb\/bc\/template.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/components\/bitrix\/breadcrumb\/bc\/template.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/components\/bitrix\/main.map\/sitemap\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/components\/bitrix\/main.map\/sitemap\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/components\/bitrix\/main.map\/sitemap\/style.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/components\/bitrix\/main.map\/sitemap\/style.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/components\/bitrix\/main.map\/sitemap\/template.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/components\/bitrix\/main.map\/sitemap\/template.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/components\/bitrix\/menu\/horizontal_multilevel1\/lang\/en\/template.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/components\/bitrix\/menu\/horizontal_multilevel1\/lang\/en\/template.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/components\/bitrix\/menu\/horizontal_multilevel1\/lang\/ru\/template.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/components\/bitrix\/menu\/horizontal_multilevel1\/lang\/ru\/template.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/components\/bitrix\/menu\/horizontal_multilevel1\/script.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/components\/bitrix\/menu\/horizontal_multilevel1\/script.js",
+		"outputAbbreviatedPath": "\/components\/bitrix\/menu\/horizontal_multilevel1\/min\/script-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/components\/bitrix\/menu\/horizontal_multilevel1\/script.map.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/components\/bitrix\/menu\/horizontal_multilevel1\/script.map.js",
+		"outputAbbreviatedPath": "\/components\/bitrix\/menu\/horizontal_multilevel1\/min\/script.map-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/components\/bitrix\/menu\/horizontal_multilevel1\/script.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/components\/bitrix\/menu\/horizontal_multilevel1\/script.min.js",
+		"outputAbbreviatedPath": "\/components\/bitrix\/menu\/horizontal_multilevel1\/min\/script.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/components\/bitrix\/menu\/horizontal_multilevel1\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/components\/bitrix\/menu\/horizontal_multilevel1\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/components\/bitrix\/menu\/horizontal_multilevel1\/style.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/components\/bitrix\/menu\/horizontal_multilevel1\/style.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/components\/bitrix\/menu\/horizontal_multilevel1\/template.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/components\/bitrix\/menu\/horizontal_multilevel1\/template.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/components\/sl\/main.feedback\/ask\/lang\/en\/template.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/components\/sl\/main.feedback\/ask\/lang\/en\/template.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/components\/sl\/main.feedback\/ask\/lang\/ru\/template.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/components\/sl\/main.feedback\/ask\/lang\/ru\/template.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/components\/sl\/main.feedback\/ask\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/components\/sl\/main.feedback\/ask\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/components\/sl\/main.feedback\/ask\/style.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/components\/sl\/main.feedback\/ask\/style.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/components\/sl\/main.feedback\/ask\/template.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/components\/sl\/main.feedback\/ask\/template.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/config.rb": {
 		"fileType": 131072,
 		"ignore": 0,
@@ -2034,6 +2222,15 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/include\/modal.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/include\/modal.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/js\/js.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -2143,6 +2340,15 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/lang\/ru\/header.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/lang\/ru\/header.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/sass\/partials\/_base.scss": {
 		"createSourceMap": 0,

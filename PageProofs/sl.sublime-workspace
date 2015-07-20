@@ -1,0 +1,1036 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hid",
+				"hide〔function〕"
+			],
+			[
+				"p",
+				"parent〔function〕"
+			],
+			[
+				"sub",
+				"submenu"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"fl",
+				"fl	float: ${1:left};"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"sea",
+				"_search-form.scss"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bu",
+				"_button-curtain.scss"
+			],
+			[
+				"mo",
+				"modules/"
+			],
+			[
+				"class",
+				"class=\"smaller"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"th",
+				"this	$(this)"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"b",
+				"button1"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"dec",
+				"decimal"
+			],
+			[
+				"list-style-",
+				"list-style-type"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"cl",
+				"cl	clear: ${1:both};"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"word",
+				"word-spacing"
+			],
+			[
+				"fa",
+				"family"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"ro",
+				"role"
+			],
+			[
+				"butt",
+				"button2"
+			],
+			[
+				"en",
+				"eng"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"ml",
+				"ml	margin-left"
+			],
+			[
+				"i",
+				"include"
+			],
+			[
+				"non",
+				"none"
+			],
+			[
+				"cont",
+				"contact"
+			],
+			[
+				"o",
+				"overlay"
+			],
+			[
+				"img",
+				"img/"
+			],
+			[
+				"bo",
+				"both"
+			],
+			[
+				"cle",
+				"clear"
+			],
+			[
+				"bot",
+				"both"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"cor",
+				"corper"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"ur",
+				"url()"
+			],
+			[
+				"bgi",
+				"background-image"
+			],
+			[
+				"l-sn",
+				"lis-n	list-style: none;"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"c",
+				"c	color: #${1:000};"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"_",
+				"_header.html.haml"
+			],
+			[
+				"sho",
+				"show"
+			],
+			[
+				"e",
+				"each"
+			],
+			[
+				"ex",
+				"ex2"
+			],
+			[
+				"com",
+				"compass"
+			],
+			[
+				"gu",
+				"gutters"
+			],
+			[
+				"la",
+				"last"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"f-si",
+				"font-size"
+			],
+			[
+				"eac",
+				"each"
+			],
+			[
+				"spa",
+				"span"
+			],
+			[
+				"wr",
+				"wrap2"
+			],
+			[
+				"sp",
+				"span"
+			],
+			[
+				"me",
+				"media"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"pd-",
+				"padding-left"
+			],
+			[
+				"lh",
+				"lh	line-height"
+			],
+			[
+				"ta",
+				"ta-c	text-align: center;"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"d",
+				"d	display: ${1:block};"
+			],
+			[
+				"bg",
+				"bgc	background-color: #${1:fff};"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"gra",
+				"gray"
+			],
+			[
+				"gr",
+				"gray"
+			],
+			[
+				"0",
+				"0.5"
+			],
+			[
+				"comp",
+				"complement"
+			],
+			[
+				"h",
+				"hover"
+			],
+			[
+				"bd",
+				"bd+	border: ${1:1px} ${2:solid} ${3:#000};"
+			],
+			[
+				"ts",
+				"tsh-n	text-shadow: none;"
+			],
+			[
+				"cs",
+				"css/"
+			],
+			[
+				"req",
+				"require.rb"
+			],
+			[
+				"mod",
+				"_modules.scss"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"sh",
+				"should"
+			],
+			[
+				"ha",
+				"have_content"
+			],
+			[
+				"bef",
+				"before"
+			],
+			[
+				"vi",
+				"via"
+			],
+			[
+				"st",
+				"static_pages"
+			],
+			[
+				"t",
+				"to"
+			],
+			[
+				"g",
+				"grayLight"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"de",
+				"def	def … end"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "blog.html",
+			"settings":
+			{
+				"buffer_size": 8814,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"co",
+				"Color Picker"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"we",
+				"Web Inspector"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"pwd",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/yegoshin/Google Диск/project/StoneLease/Site/PageProofs"
+	],
+	"file_history":
+	[
+		"/Users/yegoshin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/yegoshin/Google Диск/project/StoneLease/Site/PageProofs/sl.sublime-project",
+		"/Users/yegoshin/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/yegoshin/Google Диск/project/StoneLease/Site/PageProofs/404.html",
+		"/Users/yegoshin/Google Диск/project/StoneLease/Site/PageProofs/about.html",
+		"/Volumes/Photoshop_15_LS20/Crack-OSX/disable_activation_osx",
+		"/Users/yegoshin/Dropbox/Приложения/Day One/Journal.dayone/entries/FFDA62B7021349D9A522A1D526956DFF.doentry",
+		"/Users/yegoshin/Downloads/Unknown.svg",
+		"/Users/yegoshin/Google Диск/private/PageProofs/js/carousel/jcarousel/examples/responsive/jcarousel.responsive.css",
+		"/Users/yegoshin/Google Диск/private/PageProofs/js/carousel/jcarousel/examples/responsive/jcarousel.responsive.js",
+		"/Users/yegoshin/Google Диск/project/StoneLease/Site/README.md",
+		"/Users/yegoshin/Google Диск/private/PageProofs/js/carousel/jcarousel/examples/responsive/index.html",
+		"/Users/yegoshin/Library/Application Support/Sublime Text 3/Packages/MacTerminal/Default.sublime-keymap",
+		"/Users/yegoshin/Library/Application Support/Sublime Text 3/Packages/MacTerminal/MacTerminal.sublime-settings",
+		"/Users/yegoshin/Google Диск/private/PageProofs/js/carousel/jQuery-Feature-Carousel/index.html",
+		"/Users/yegoshin/Google Диск/project/StoneLease/Site/PageProofs/haml/about.haml",
+		"/Users/yegoshin/Яндекс.Диск/Программирование/projects/predanie.ru/predanie.ru/verstka-predanie.ru/less/fonts/rubsn.less",
+		"/Users/yegoshin/Яндекс.Диск/Программирование/projects/merovodich.ru/www/bitrix/templates/merovodich/js/main.js",
+		"/Users/yegoshin/Downloads/jquery-ui-1.11.4-2.custom/index.html",
+		"/Users/yegoshin/Яндекс.Диск/Программирование/projects/predanie.ru/predanie.ru/verstka-predanie.ru/less/fonts/fonts.less",
+		"/Users/yegoshin/Google Диск/project/StoneLease/Site/PageProofs/haml/partials/modules/_modal-writeme.haml",
+		"/Users/yegoshin/Google Диск/project/StoneLease/Site/PageProofs/haml/partials/modules/_modal-confirm.haml",
+		"/Users/yegoshin/Google Диск/private/PageProofs/js/formElements/checkator/index.html",
+		"/Users/yegoshin/Google Диск/private/PageProofs/js/formElements/selectator/index.html",
+		"/Users/yegoshin/Google Диск/private/PageProofs/js/formElements/selectator/fm.selectator.jquery.js",
+		"/Users/yegoshin/Google Диск/private/PageProofs/js/carousel/jcarousel/examples/basic/jcarousel.basic.css",
+		"/Users/yegoshin/Google Диск/private/PageProofs/js/carousel/jcarousel/examples/basic/index.html",
+		"/Users/yegoshin/www/compass/CST/sass/partials/_grids2.scss",
+		"/Users/yegoshin/www/compass/susyTutorial/sass/_grids.scss",
+		"/Users/yegoshin/Google Диск/project/StoneLease/Site/PageProofs/haml/partials/pages/_article-content.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/haml/partials/modules/_button-curtain.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/haml/partials/pages/_typo-content.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/sass/partials/modules/_button-curtain.scss",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/sass/styles.scss",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/sass/partials/_modules.scss",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/js/js.js",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/haml/partials/_header.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/sass/partials/modules/_modal.scss",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/sass/partials/modules/_arctimodal.scss",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/js/modules/modal.js",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/sass/partials/modules/_ears.scss",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/haml/partials/_footer.haml",
+		"/Users/yegoshin/Google Диск/private/PageProofs/js/carousel/jQuery-Feature-Carousel/css/feature-carousel.css",
+		"/Users/yegoshin/Google Диск/private/PageProofs/js/carousel/jQuery-Feature-Carousel/js/jquery.featureCarousel.js",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/sass/partials/layouts/_header.scss",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/js/modules/jquery.arcticmodal.js",
+		"/Users/yegoshin/Google Диск/private/PageProofs/js/formElements/selectator/fm.selectator.jquery.css",
+		"/Users/yegoshin/Google Диск/private/PageProofs/js/formElements/selectator/README.md",
+		"/Users/yegoshin/Google Диск/private/PageProofs/js/modal/arcticModal-master/arcticmodal/jquery.arcticmodal.js",
+		"/Users/yegoshin/Google Диск/private/PageProofs/js/modal/arcticModal-master/arcticmodal/jquery.arcticmodal.css",
+		"/Users/yegoshin/Google Диск/private/PageProofs/js/modal/arcticModal-master/arcticmodal/themes/simple.css",
+		"/Users/yegoshin/Google Диск/private/PageProofs/js/modal/arcticModal-master/styles.css",
+		"/Users/yegoshin/Google Диск/private/PageProofs/js/modal/arcticModal-master/index.html",
+		"/Users/yegoshin/Google Диск/private/PageProofs/js/modal/arcticModal-master/arcticmodal/themes/dark.css",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/js/modules/menu-about.js",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/js/modules/no-href.js",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/sass/partials/_base.scss",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/haml/partials/modules/_search-form.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/sass/partials/modules/_search-form.scss",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/sass/partials/_placeholders.scss",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/typo.html",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/haml/typo.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/haml/partials/pages/_index-content.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/haml/index.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/js/modules/button-curtain.js",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/haml/partials/modules/button-curtain.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/sass/partials/modules/button-curtain.scss",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/haml/partials/_head.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/js/modules/jquery.keeptherhythm.js",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/haml/pages/_typo-content.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/_header.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/typo.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/_footer.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/sass/partials/_mixins.scss",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/index.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/css/styles.css",
+		"/Users/yegoshin/www/compass/sass&compass/chapter6/index.html",
+		"/Users/yegoshin/Library/Application Support/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/Users/yegoshin/Library/Application Support/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/Users/yegoshin/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/yegoshin/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/_head.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/js/min/script-min.js",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/js/script.js",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/__footer.html.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/_typo.html.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/__head.html.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/_index.html.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/index.html",
+		"/Users/yegoshin/Google Диск/private/PageProofs/page-proofs/sass/partials/_variables.scss",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/sass/partials/_fonts.scss",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/__aside.html.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/sass/partials/_variables.scss",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/_breadcrumb.html.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/_header.html.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/_head.html.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/_footer.html.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/_aside.html.haml",
+		"/Users/yegoshin/Google Диск/project/Italia/Site/PageProofs/-index.html.haml",
+		"/Users/yegoshin/www/compass/CST/haml/_sidebar.html.haml",
+		"/Users/yegoshin/www/compass/CST/sass/partials/_grids.scss",
+		"/Users/yegoshin/www/compass/CST/index2.html",
+		"/Users/yegoshin/www/compass/CST/sass/styles.scss",
+		"/Users/yegoshin/www/compass/CST/css/styles.css",
+		"/Users/yegoshin/www/compass/CST/config.rb",
+		"/Users/yegoshin/www/compass/CST/index.html",
+		"/Users/yegoshin/www/compass/sass&compass/chapter5/sass/partials/_mixins.scss",
+		"/Users/yegoshin/www/compass/sass&compass/chapter4/css/styles.css",
+		"/Users/yegoshin/www/compass/sass&compass/chapter4/sass/styles.scss",
+		"/Users/yegoshin/www/compass/sass&compass/chapter4/sass/partials/_chapter-examples.scss",
+		"/Users/yegoshin/www/compass/sass&compass/chapter4/sass/partials/_variables.scss",
+		"/Users/yegoshin/Downloads/susy-tutorial/sass/_grids.scss",
+		"/Users/yegoshin/www/compass/sass&compass/chapter4/sass/partials/_mixins.scss",
+		"/Users/yegoshin/www/compass/sass&compass/chapter4/sass/partials/_placeholders.scss",
+		"/Users/yegoshin/www/compass/sass&compass/chapter3/css/styles.css",
+		"/Users/yegoshin/www/compass/sass&compass/chapter3/index.html",
+		"/Users/yegoshin/www/compass/sass&compass/chapter3/sass/styles.scss",
+		"/Users/yegoshin/www/compass/sass&compass/chapter3/sass/partials/_layout.scss",
+		"/Users/yegoshin/Library/Application Support/Sublime Text 3/Packages/Colorcoder/colorcoder.sublime-settings",
+		"/Users/yegoshin/Library/Application Support/Sublime Text 3/Packages/Gutter Color/GutterColor.sublime-settings",
+		"/Users/yegoshin/www/compass/sass&compass/chapter3/sass/partials/_base.scss",
+		"/Users/yegoshin/www/compass/CompassNormalize/css/styles.css",
+		"/Users/yegoshin/www/compass/CompassNormalize/index.html",
+		"/Users/yegoshin/www/compass/CompassNormalize/index.html.haml",
+		"/Users/yegoshin/www/compass/CompassNormalize/sass/styles.scss",
+		"/Users/yegoshin/www/compass/CompassNormalize/sass/partials/_modules.scss",
+		"/Users/yegoshin/www/compass/CompassNormalize/sass/partials/_base.scss",
+		"/Users/yegoshin/Google Диск/private/PageProofs/CompassCustomGrid/config.rb"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"opacity",
+			"clearf",
+			"re",
+			"res",
+			"reset",
+			"padding",
+			".plashka",
+			"width",
+			"rus",
+			"ita",
+			"	@",
+			"header",
+			"top",
+			"selector-size",
+			"\"}\n",
+			"20px",
+			"show",
+			"main",
+			"padding-b",
+			"padding-top",
+			"2.5",
+			"important",
+			"header",
+			"moz",
+			"webkit",
+			"*",
+			"h1",
+			"h4",
+			";\n",
+			"h4",
+			"p",
+			"colorLink",
+			"уровня",
+			"webkit-margin-before",
+			"normal",
+			"div",
+			"box",
+			"boz",
+			"inherit",
+			"h4",
+			"a-",
+			"@extend",
+			"include",
+			"a-",
+			"a",
+			"h4",
+			"h5",
+			"gutters",
+			");\n",
+			"body",
+			"suf",
+			"active",
+			"off-canvas-navigation",
+			"js",
+			"inner",
+			"footer	",
+			"footer",
+			"ff0",
+			"header",
+			"body",
+			"less",
+			"%a{:href => \"\"}",
+			"25",
+			"href",
+			";\n",
+			"build",
+			"compass",
+			"ssl",
+			"valid",
+			"rsp",
+			"\\Aemail\\z",
+			"/A=/z",
+			"attributes",
+			"initialize",
+			"name",
+			"attr_accessor",
+			"Home",
+			"describe",
+			"\n  ",
+			"config.include",
+			"sh",
+			"bin",
+			"bash",
+			"sh",
+			"999",
+			"css",
+			"@"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "blog.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (Colorcoded).tmTheme",
+							"colorcode": true,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 181.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 168.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "sl.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			],
+			[
+				"g",
+				"Gemfile"
+			],
+			[
+				"data",
+				"config/database.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"User"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 160.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

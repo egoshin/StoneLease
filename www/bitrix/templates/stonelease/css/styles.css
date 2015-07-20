@@ -18,8 +18,7 @@ html, body {
 .corper {
   overflow-x: hidden;
   overflow-y: scroll;
-  min-width: 960px;
-  height: 100%; }
+  min-width: 960px; }
   .corper .without-footer {
     position: relative;
     min-height: 100%;
@@ -508,7 +507,11 @@ header {
   padding-top: 20px;
   padding-top: 1.25rem;
   margin-bottom: 25px;
-  margin-bottom: 1.5625rem; }
+  margin-bottom: 1.5625rem;
+  padding-left: 10px;
+  padding-left: 0.625rem;
+  padding-right: 10px;
+  padding-right: 0.625rem; }
   .breadcrumbs:after {
     content: " ";
     display: block;
@@ -541,7 +544,8 @@ header {
       .breadcrumbs ul li.last {
         padding-right: 0; }
     .breadcrumbs ul li:after {
-      content: "/"; }
+      content: "/";
+      padding-left: 5px; }
     .breadcrumbs ul li:last-child:after {
       content: " "; }
     .breadcrumbs ul a {
@@ -867,8 +871,8 @@ header {
       width: 26.875rem;
       margin-left: 265px;
       margin-left: 16.5625rem;
-      margin-top: 135px;
-      margin-top: 8.4375rem;
+      margin-top: 100px;
+      margin-top: 6.25rem;
       padding-bottom: 15px;
       padding-bottom: 0.9375rem;
       margin-bottom: 40px;
@@ -880,8 +884,8 @@ header {
       display: inline-block;
       margin-top: 20px;
       margin-top: 1.25rem;
-      margin-bottom: 245px;
-      margin-bottom: 15.3125rem; }
+      margin-bottom: 50px;
+      margin-bottom: 3.125rem; }
   [role="main"] .leasing-operational-block .packages-block {
     *zoom: 1;
     margin: 20px 0 25px; }
@@ -1078,8 +1082,17 @@ header {
           [role="main"] .leasing-bottom-block .callme-block form .section-submit .requre-field-message span {
             color: #dc0c41; }
   [role="main"] .sitemap-block {
-    margin-top: 40px;
-    margin-bottom: 440px; }
+    margin-top: 50px;
+    margin-top: 3.125rem;
+    padding-bottom: 100px;
+    padding-bottom: 6.25rem; }
+    [role="main"] .sitemap-block .map-columns {
+      margin: 0 auto;
+      width: 750px; }
+      [role="main"] .sitemap-block .map-columns .map-level-1 {
+        padding-left: 10px; }
+      [role="main"] .sitemap-block .map-columns li:before {
+        content: normal; }
     [role="main"] .sitemap-block a {
       color: #101010; }
   [role="main"] .contacts-block .contacts-left {
@@ -1978,53 +1991,52 @@ footer {
 .box-modal_close:hover {
   color: white; }
 
-#writemeModal {
-  height: 290px;
-  height: 18.125rem; }
-  #writemeModal form .section-input {
-    *zoom: 1; }
-    #writemeModal form .section-input:after {
-      content: "\0020";
-      display: block;
-      height: 0;
-      clear: both;
-      overflow: hidden;
-      visibility: hidden; }
-    #writemeModal form .section-input .form-group {
+#writemeModal form .section-input {
+  *zoom: 1; }
+  #writemeModal form .section-input:after {
+    content: "\0020";
+    display: block;
+    height: 0;
+    clear: both;
+    overflow: hidden;
+    visibility: hidden; }
+  #writemeModal form .section-input .form-group {
+    float: left;
+    width: 345px;
+    width: 21.5625rem; }
+    #writemeModal form .section-input .form-group label {
       float: left;
-      width: 345px;
-      width: 21.5625rem; }
-      #writemeModal form .section-input .form-group label {
-        float: left;
-        margin: 5px;
-        margin: 0.3125rem;
-        width: 75px;
-        width: 4.6875rem; }
-      #writemeModal form .section-input .form-group input, #writemeModal form .section-input .form-group textarea {
-        width: 230px;
-        width: 14.375rem; }
-      #writemeModal form .section-input .form-group textarea {
-        height: 110px;
-        height: 6.875rem; }
-  #writemeModal form .section-submit {
-    *zoom: 1;
-    margin-top: 35px;
-    margin-top: 2.1875rem; }
-    #writemeModal form .section-submit:after {
-      content: "\0020";
-      display: block;
-      height: 0;
-      clear: both;
-      overflow: hidden;
-      visibility: hidden; }
-    #writemeModal form .section-submit button {
-      float: left;
-      margin-right: 35px;
-      margin-right: 2.1875rem; }
-    #writemeModal form .section-submit .requre-field-message {
-      float: left; }
-      #writemeModal form .section-submit .requre-field-message span {
-        color: #dc0c41; }
+      margin: 5px;
+      margin: 0.3125rem;
+      width: 75px;
+      width: 4.6875rem; }
+    #writemeModal form .section-input .form-group input, #writemeModal form .section-input .form-group textarea {
+      width: 230px;
+      width: 14.375rem; }
+    #writemeModal form .section-input .form-group textarea {
+      height: 110px;
+      height: 6.875rem; }
+#writemeModal form .section-submit {
+  *zoom: 1;
+  margin-top: 35px;
+  margin-top: 2.1875rem; }
+  #writemeModal form .section-submit:after {
+    content: "\0020";
+    display: block;
+    height: 0;
+    clear: both;
+    overflow: hidden;
+    visibility: hidden; }
+  #writemeModal form .section-submit .button-red {
+    float: left;
+    margin-right: 35px;
+    margin-right: 2.1875rem;
+    padding-top: 0;
+    padding-bottom: 0; }
+  #writemeModal form .section-submit .requre-field-message {
+    float: left; }
+    #writemeModal form .section-submit .requre-field-message span {
+      color: #dc0c41; }
 
 #confirmModal {
   height: 220px;

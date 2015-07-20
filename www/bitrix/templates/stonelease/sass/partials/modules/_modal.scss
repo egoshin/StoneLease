@@ -1,7 +1,7 @@
 // Настройка уникальных свойств пользовательских модальных окон
 
 #writemeModal {
-  @include selector-rhythm(height, $modal-height-writeme);
+  //@include selector-rhythm(height, $modal-height-writeme);
   form {
     .section-input {
       @include legacy-pie-clearfix;
@@ -24,9 +24,11 @@
     .section-submit {
       @include legacy-pie-clearfix;
       @include selector-rhythm(margin-top, 35px);
-      button {
+      .button-red {
         float: left;
         @include selector-rhythm(margin-right, 35px);
+        padding-top: 0;
+        padding-bottom: 0;
       }
       .requre-field-message {
         float: left;
